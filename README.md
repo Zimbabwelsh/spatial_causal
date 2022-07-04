@@ -1,3 +1,3 @@
-# Causal Inference in Spatial Analysis Chapter for <a href="ljwolf.org/rasa">Research Agenda in Spatial Analysis<a/>.
+# Causal Inference in Spatial Analysis Chapter
 
-Code to generate dataset and collider simulation example figure for RASA Causal Inference in Spatial Analysis Chapter
+Code to generate dataset and collider simulation example figure for <a href="ljwolf.org/rasa">Research Agenda in Spatial Analysis<a/>, chapter on Causal Inference in Spatial Analysis
